@@ -1,3 +1,4 @@
+<pre>
 +-----------------------------------------------------------------------------------------+
 |                           ARQUITECTURA DEL SISTEMA: FPGA-SORTER                         |
 +-----------------------------------------------------------------------------------------+
@@ -34,3 +35,4 @@
 Leyenda de conexiones:
 ---(Señal)--->  : Conexión digital simple (1 bit)
 ===(Bus)=====>  : Conexión de múltiples bits (Bus de datos) o PWM
+</pre>
