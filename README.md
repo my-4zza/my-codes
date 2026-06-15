@@ -1,8 +1,8 @@
 # Evidencia en Video | Etapa 4 (Final)
+
 Se adjunta un video demostrando el proceso, conexiones y funcionamiento del proyecto:
-[![Proyecto Carrito Recolector de Objetos | Programación Avanzada](https://markdown-videos.deta.dev/youtube/rHxLL-gxWDA)](https://youtu.be/rHxLL-gxWDA?si=TGAuHaduWIiXIafk)
 
-
+[![Proyecto Carrito Recolector de Objetos](https://markdown-videos.deta.dev/youtube/rHxLL-gxWDA)](https://youtu.be/rHxLL-gxWDA)
 
 [![Demostración del carrito recolector de objetos](video-carrito.png)](https://drive.google.com/drive/folders/1kI8LGIYh37pM9ImtZcdKFInXa3onWUDl?usp=sharing)
 <pre>
