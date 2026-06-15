@@ -2,10 +2,8 @@
 
 Se adjunta un video demostrando el proceso, conexiones y funcionamiento del proyecto:
 
-[![Proyecto Carrito Recolector de Objetos](https://markdown-videos.deta.dev/youtube/rHxLL-gxWDA)](https://youtu.be/rHxLL-gxWDA)
+[![](https://img.youtube.com/vi/rHxLL-gxWDA/0.jpg)](https://www.youtube.com/watch?v=rHxLL-gxWDA)
 
-[![Demostración del carrito recolector de objetos](video-carrito.png)](https://drive.google.com/drive/folders/1kI8LGIYh37pM9ImtZcdKFInXa3onWUDl?usp=sharing)
-<pre>
 +-----------------------------------------------------------------------------------------+
 |                           ARQUITECTURA DEL SISTEMA: FPGA-SORTER                         |
 +-----------------------------------------------------------------------------------------+
