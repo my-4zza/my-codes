@@ -1,3 +1,4 @@
+[![Demostración del carrito recolector de objetos](video-carrito.png)](https://drive.google.com/drive/folders/1kI8LGIYh37pM9ImtZcdKFInXa3onWUDl?usp=sharing)
 <pre>
 +-----------------------------------------------------------------------------------------+
 |                           ARQUITECTURA DEL SISTEMA: FPGA-SORTER                         |
