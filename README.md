@@ -4,6 +4,14 @@ Se adjunta un video demostrando el proceso, conexiones y funcionamiento del proy
 
 [![](https://img.youtube.com/vi/rHxLL-gxWDA/0.jpg)](https://www.youtube.com/watch?v=rHxLL-gxWDA)
 
+<div align="center">
+
+[![Proyecto Carrito Recolector de Objetos](https://img.youtube.com/vi/rHxLL-gxWDA/0.jpg)](https://www.youtube.com/watch?v=rHxLL-gxWDA)
+
+</div>
+
+
+
 +-----------------------------------------------------------------------------------------+
 |                           ARQUITECTURA DEL SISTEMA: FPGA-SORTER                         |
 +-----------------------------------------------------------------------------------------+
